@@ -1,4 +1,4 @@
 Event-Manager
 =============
 
-Parse Data from CSV File
+Simple Ruby Application for Parse Data from CSV File
